@@ -1,2 +1,2 @@
-# >_ whoami 
+# $ whoami 
 
