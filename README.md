@@ -1,10 +1,10 @@
 # $ whoami 
 I'm a Penetration Tester and Purple Teamer.
 
-<u>Education:</u>  
+<b>Education:</b>  
 Bachelors of Science in Cybersecurity
 
-<u>Certifications:</u>
+<b>Certifications:</b>
 - A+
 - Network+
 - Security+
