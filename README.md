@@ -8,5 +8,5 @@ Bachelors of Science in Cybersecurity
 - A+
 - Network+
 - Security+
-- PJPT+
+- PJPT
 
