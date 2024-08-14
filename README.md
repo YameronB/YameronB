@@ -9,4 +9,5 @@ Bachelors of Science in Cybersecurity
 - Network+
 - Security+
 - PJPT
+- HTB Certified Penetration Testing Specialist
 
