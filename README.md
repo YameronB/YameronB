@@ -10,4 +10,5 @@ Bachelors of Science in Cybersecurity
 - Security+
 - PJPT
 - HTB Certified Penetration Testing Specialist
+- Zero-Point Security Certified Red Team Operator
 
