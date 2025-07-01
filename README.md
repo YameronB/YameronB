@@ -5,10 +5,10 @@ I'm a Penetration Tester and Purple Teamer.
 Bachelors of Science in Cybersecurity
 
 <b>Certifications:</b>
-- A+
-- Network+
-- Security+
-- PJPT
-- HTB Certified Penetration Testing Specialist
-- Zero-Point Security Certified Red Team Operator
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- TCM Security Professional Junior Penetration Tester (PJPT)
+- HTB Certified Penetration Testing Specialist (CPTS)
+- Zero-Point Security Certified Red Team Operator (CRTO)
 
